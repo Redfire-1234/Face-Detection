@@ -4,6 +4,12 @@ This project trains YOLOv8 and YOLOv5 models to detect human faces using a custo
 The dataset contains images and bounding box annotations stored in a CSV file.  
 The project includes training, validation, predictions on images & video, and saving the trained model.  
 
+References  
+- Redmon, J. et al., “You Only Look Once: Unified, Real-Time Object Detection”, 2016, arXiv  
+- Ultralytics YOLOv8 GitHub: https://github.com/ultralytics/ultralytics  
+- Ultralytics YOLOv5 GitHub: https://github.com/ultralytics/yolov5  
+- Dataset: https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection  
+
 Project Workflow  
 1️] Setup  
 Check GPU using !nvidia-smi  
