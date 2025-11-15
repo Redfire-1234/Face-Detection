@@ -5,7 +5,7 @@ The dataset contains images and bounding box annotations stored in a CSV file.
 The project includes training, validation, predictions on images & video, and saving the trained model.  
 
 References  
-- Redmon, J. et al., “You Only Look Once: Unified, Real-Time Object Detection”, 2016, arXiv  
+- Redmon, J. et al., “You Only Look Once: Unified, Real-Time Object Detection”, 2016, arXiv [https://arxiv.org/abs/1506.02640]   
 - Ultralytics YOLOv8 GitHub: https://github.com/ultralytics/ultralytics  
 - Ultralytics YOLOv5 GitHub: https://github.com/ultralytics/yolov5  
 - Dataset: https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection  
